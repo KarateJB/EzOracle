@@ -1,0 +1,7 @@
+※搬Table Space和Index※
+
+1.Table Space:
+ALTER TABLE table_name MOVE TABLESPACE data_m
+
+2.Index:
+Index: ALTER INDEX index_name REBUILD TABLESPACE index_M

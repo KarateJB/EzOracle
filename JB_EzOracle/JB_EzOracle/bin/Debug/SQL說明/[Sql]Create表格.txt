@@ -1,0 +1,15 @@
+※Create Table※
+
+1.
+CREATE TABLE new_table_name(
+  XX,
+  YY,
+  constraint pk_new_table_flg primary key(XX,YY)
+)
+
+2.
+CREATE TABLE new_table_name
+AS
+SELECT * FROM exist_table_name
+
+

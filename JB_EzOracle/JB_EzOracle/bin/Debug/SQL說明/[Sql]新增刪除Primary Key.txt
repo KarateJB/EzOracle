@@ -1,0 +1,7 @@
+※Primary Key※
+
+1.新增Primary Key
+ALTER TABLE table_name ADD CONSTRAINT pk_name PRIMARY KEY(column_name)
+
+2.刪除Primary Key
+ALTER TABLE table_name DROP CONSTRAINT pk_name 

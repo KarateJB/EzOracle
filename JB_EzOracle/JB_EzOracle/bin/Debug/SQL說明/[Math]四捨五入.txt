@@ -1,0 +1,10 @@
+※四捨五入※
+
+1.四捨五入到小數點後兩位
+SELECT ROUND(1.754,2) FROM DUAL  …1.75
+
+2.四捨五入到小數點後一位
+SELECT ROUND(1.754,1) FROM DUAL  …1.8
+
+3.到整數
+SELECT ROUND(1.754) FROM DUAL    …2

@@ -1,0 +1,14 @@
+Q:\WORK\CODE\Visual Studio 2005\Projects\JB_TEST01(ADONET)\JB_TEST01(ADONET)\obj\Debug\ResolveAssemblyReference.cache
+Q:\WORK\CODE\Visual Studio 2005\Projects\JB_TEST01(ADONET)\JB_TEST01(ADONET)\obj\Debug\JB_TEST01_ADONET_.MainForm.resources
+Q:\WORK\CODE\Visual Studio 2005\Projects\JB_TEST01(ADONET)\JB_TEST01(ADONET)\obj\Debug\JB_TEST01_ADONET_.Properties.Resources.resources
+Q:\WORK\CODE\Visual Studio 2005\Projects\JB_TEST01(ADONET)\JB_TEST01(ADONET)\obj\Debug\JB_TEST01(ADONET).csproj.GenerateResource.Cache
+Q:\WORK\CODE\Visual Studio 2005\Projects\JB_TEST01(ADONET)\JB_TEST01(ADONET)\bin\Debug\JB_TEST01(ADONET).exe
+Q:\WORK\CODE\Visual Studio 2005\Projects\JB_TEST01(ADONET)\JB_TEST01(ADONET)\bin\Debug\JB_TEST01(ADONET).pdb
+Q:\WORK\CODE\Visual Studio 2005\Projects\JB_TEST01(ADONET)\JB_TEST01(ADONET)\obj\Debug\JB_TEST01(ADONET).exe
+Q:\WORK\CODE\Visual Studio 2005\Projects\JB_TEST01(ADONET)\JB_TEST01(ADONET)\obj\Debug\JB_TEST01(ADONET).pdb
+Q:\WORK\CODE\Visual Studio 2005\Projects\JB_TEST01(ADONET)\JB_TEST01(ADONET)\bin\Debug\JB_TEST01(ADONET).exe.manifest
+Q:\WORK\CODE\Visual Studio 2005\Projects\JB_TEST01(ADONET)\JB_TEST01(ADONET)\bin\Debug\JB_TEST01(ADONET).application
+Q:\WORK\CODE\Visual Studio 2005\Projects\JB_TEST01(ADONET)\JB_TEST01(ADONET)\obj\Debug\JB_TEST01(ADONET).exe.manifest
+Q:\WORK\CODE\Visual Studio 2005\Projects\JB_TEST01(ADONET)\JB_TEST01(ADONET)\obj\Debug\JB_TEST01(ADONET).application
+Q:\WORK\CODE\Visual Studio 2005\Projects\JB_TEST01(ADONET)\JB_TEST01(ADONET)\obj\Debug\JB_TEST01(ADONET).TrustInfo.xml
+Q:\WORK\CODE\Visual Studio 2005\Projects\JB_TEST01(ADONET)\JB_TEST01(ADONET)\obj\Debug\JB_TEST01_ADONET_.SetupForm.resources

@@ -1,0 +1,84 @@
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.csproj.ResolveComReference.cache
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.exe
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.pdb
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\bin\Debug\JB_EzOracleSQL.exe.manifest
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\bin\Debug\JB_EzOracleSQL.application
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\bin\Debug\JB_EzOracleSQL.exe
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\bin\Debug\JB_EzOracleSQL.pdb
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\bin\Debug\Interop.Excel.dll
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\ResolveAssemblyReference.cache
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\GenerateResource-ResGen.read.1.tlog
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\GenerateResource-ResGen.write.1.tlog
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.TrustInfo.xml
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.exe.manifest
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.application
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\bin\Debug\JB_EzOracleSQL.exe.config
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\GenerateResource.read.1.tlog
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\GenerateResource.write.1.tlog
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.Properties.Resources.resources
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.AlertBox.resources
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.ConstraintForm.resources
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.EditSqlForm.resources
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.ExportForm.resources
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.MainForm.resources
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.ReplaceForm.resources
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.RsltForm.resources
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.SchemaForm.resources
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.SearchForm.resources
+Q:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.SetupForm.resources
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\bin\Debug\JB_EzOracleSQL.exe.config
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.csproj.ResolveComReference.cache
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.exe
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.pdb
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\bin\Debug\JB_EzOracleSQL.exe.manifest
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\bin\Debug\JB_EzOracleSQL.application
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\bin\Debug\JB_EzOracleSQL.exe
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\bin\Debug\JB_EzOracleSQL.pdb
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\bin\Debug\Interop.Excel.dll
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\ResolveAssemblyReference.cache
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.AlertBox.resources
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.ConstraintForm.resources
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.EditSqlForm.resources
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.ExportForm.resources
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.MainForm.resources
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.Properties.Resources.resources
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.ReplaceForm.resources
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.RsltForm.resources
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.SchemaForm.resources
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.SearchForm.resources
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.SetupForm.resources
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\GenerateResource.read.1.tlog
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\GenerateResource.write.1.tlog
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.TrustInfo.xml
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.exe.manifest
+D:\WORK\CODE\Visual Studio 2010\Projects\JB_EzOracle\JB_TEST01(ADONET)\obj\Debug\JB_EzOracleSQL.application
+D:\Temp\JB_EzOracle\JB_EzOracle\bin\Debug\JB_EzOracleSQL.exe.config
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.csproj.ResolveComReference.cache
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.exe
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.pdb
+D:\Temp\JB_EzOracle\JB_EzOracle\bin\Debug\JB_EzOracleSQL.exe.manifest
+D:\Temp\JB_EzOracle\JB_EzOracle\bin\Debug\JB_EzOracleSQL.application
+D:\Temp\JB_EzOracle\JB_EzOracle\bin\Debug\JB_EzOracleSQL.exe
+D:\Temp\JB_EzOracle\JB_EzOracle\bin\Debug\JB_EzOracleSQL.pdb
+D:\Temp\JB_EzOracle\JB_EzOracle\bin\Debug\Interop.Excel.dll
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.AlertBox.resources
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.ConstraintForm.resources
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.EditSqlForm.resources
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.ExportForm.resources
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.MainForm.resources
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.Properties.Resources.resources
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.ReplaceForm.resources
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.RsltForm.resources
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.SchemaForm.resources
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.SearchForm.resources
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.SetupForm.resources
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.csproj.GenerateResource.Cache
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.TrustInfo.xml
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.exe.manifest
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.application
+D:\Works\Source Control\GitHub\KarateJB\EzOracle\JB_EzOracle\JB_EzOracle\bin\Debug\JB_EzOracleSQL.exe.config
+D:\Works\Source Control\GitHub\KarateJB\EzOracle\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.csproj.ResolveComReference.cache
+D:\Works\Source Control\GitHub\KarateJB\EzOracle\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.exe
+D:\Works\Source Control\GitHub\KarateJB\EzOracle\JB_EzOracle\JB_EzOracle\obj\Debug\JB_EzOracleSQL.pdb

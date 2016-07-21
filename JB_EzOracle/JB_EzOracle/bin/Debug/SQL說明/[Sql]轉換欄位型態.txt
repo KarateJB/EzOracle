@@ -1,0 +1,3 @@
+※轉換型態※
+
+CAST(col_name AS VARCHAR(10))

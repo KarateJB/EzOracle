@@ -1,0 +1,2 @@
+D:\Temp\JB_EzOracle\JB_EzOracle\bin\x64\Debug\JB_EzOracleSQL.exe.config
+D:\Temp\JB_EzOracle\JB_EzOracle\obj\x64\Debug\JB_EzOracleSQL.csproj.ResolveComReference.cache

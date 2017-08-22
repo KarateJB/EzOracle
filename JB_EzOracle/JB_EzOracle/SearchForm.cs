@@ -25,6 +25,8 @@ namespace JB_EzOracleSQL
         //----------------------------------------------------------
         private void BT_close_Click(object sender, EventArgs e)
         {
+
+            //Test
             this.Close();
         }
 

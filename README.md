@@ -1,21 +1,28 @@
 # EzOracle
+
 A Oracle GUI for writing and executing PL/SQL.
 
+
+
 ## Features
+
 * Enable Transaction (Commit and Rollback)
 * Block executing (The sql only selected will be executed)
 * Save query results to excel
 * GUI theme
 
 ### Snapshots
+
 ![Main](/images/MainForm.png)
 ![Main](/images/BlockQuery.png)
 
 ### Warning
+
 This project was created, mainted and tested during 2010-2011 with Oracle 10g.
 
 
 ## License
+
 The EzOracle project is covered by the [MIT License](http://opensource.org/licenses/MIT "MIT License").
 
 The MIT License (MIT)

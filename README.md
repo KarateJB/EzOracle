@@ -3,7 +3,7 @@
 EzOrable is the Oracle client GUI for writing and executing PL/SQL in Windows.
 It was built in .NET Framework WinForm.
 
-> This project was designed, mainted and tested during 2010-2011 with Oracle 10g.
+> This project was designed, maintained and tested during 2010-2011 with Oracle 10g.
 
 ## Features
 

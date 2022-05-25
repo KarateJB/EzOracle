@@ -1,8 +1,9 @@
 # EzOracle
 
-A Oracle GUI for writing and executing PL/SQL.
+EzOrable is the Oracle GUI for writing and executing PL/SQL.
+It was built in .NET Framework WinForm.
 
-
+> This project was designed, mainted and tested during 2010-2011 with Oracle 10g.
 
 ## Features
 
@@ -11,14 +12,18 @@ A Oracle GUI for writing and executing PL/SQL.
 * Save query results to excel
 * GUI theme
 
+## Document
+
+[WIKI](https://github.com/KarateJB/EzOracle/wiki) (Chinese version)
+
+
+
 ### Snapshots
 
-![Main](/images/MainForm.png)
-![Main](/images/BlockQuery.png)
+![Main](/assets/MainForm.png)
 
-### Warning
+![BlockQuery](/assets/BlockQuery.png)
 
-This project was created, mainted and tested during 2010-2011 with Oracle 10g.
 
 
 ## License

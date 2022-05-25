@@ -1,6 +1,0 @@
-※列出欄位名稱及型態※
-
-SELECT table_name, column_name, data_type, data_length
-FROM user_tab_columns
-WHERE table_name = 'XXXX'
-

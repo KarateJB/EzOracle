@@ -1,3 +1,0 @@
-※Grant權限※
-
-GRANT SELECT ON table_name TO owner_name

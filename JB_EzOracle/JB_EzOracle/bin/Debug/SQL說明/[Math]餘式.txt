@@ -1,3 +1,0 @@
-※餘式※
-
-SELECT MOD(8,3) FROM DUAL  …2

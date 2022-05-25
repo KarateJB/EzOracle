@@ -1,3 +1,0 @@
-※建立UNIQUE INDEX※
-
-CREATE UNIQUE INDEX index_name ON Table_name (欄位名稱一,欄位名稱2)

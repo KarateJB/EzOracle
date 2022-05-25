@@ -366,3 +366,8 @@ __pycache__/
 # Cake - Uncomment if you are using it
 # tools/
 
+# Vim
+[._]*.sw[a-p]
+*.un~
+*~
+tags

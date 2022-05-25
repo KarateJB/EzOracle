@@ -1,5 +1,0 @@
-※排序+PARTITION※
-
-SELECT
-RANK() OVER (PARTITION BY col_name01, col_name02 ORDER BY col_name03 DESC) 
-AS new_col_name

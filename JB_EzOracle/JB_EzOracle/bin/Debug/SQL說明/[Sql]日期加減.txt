@@ -1,8 +1,0 @@
-※日期加減※
-
-1.減一個月
-TO_CHAR(ADD_MONTHS(sysdate,-1), ‘YYYYMMDD’)
-
-2.加一天
-TO_CHAR(TO_DATE(‘20090313’,’YYYYMMDD’)+1, ‘YYYYMMDD’)
-
